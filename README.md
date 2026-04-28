@@ -6,6 +6,7 @@ Derived R₀ using the next-generation matrix method and ran MATLAB simulations 
 
 Methods: Compartmental ODE modeling, basic reproduction number derivation, parameter sensitivity analysis, MATLAB simulation
 
-Files:
+## Files:
 Term_Project_1380.pdf — Full paper with derivations, figures, and discussion
+
 Appendix_Project.pdf — MATLAB scripts for simulations
